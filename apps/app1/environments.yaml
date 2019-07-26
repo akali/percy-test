@@ -1,0 +1,5 @@
+default: !!map
+  X1: !!bool true  # It's true
+environments: !!map
+  API_HOST: !!map  # kek
+    X1: !!bool true
