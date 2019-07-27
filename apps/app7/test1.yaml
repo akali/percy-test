@@ -1,5 +1,6 @@
 default: !!map
   user: !!str "standlove"
+  dick-pick: !!str "dick-pick"
 environments: !!map
   test: !!map
     user: !!str "standlove"
